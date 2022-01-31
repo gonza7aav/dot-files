@@ -1,0 +1,360 @@
+###
+###  vlc 3.0.16
+###
+
+[qt] # Qt interface
+
+# Systray icon (boolean)
+qt-system-tray=0
+
+# Continue playback? (integer)
+qt-continue=2
+
+# Activate the updates availability notification (boolean)
+qt-updates-notif=0
+
+# Ask for network policy at start (boolean)
+qt-privacy-ask=0
+
+[x264] # H.264/MPEG-4 Part 10/AVC encoder (x264)
+
+# Default preset setting used (string)
+sout-x264-preset=ultrafast
+
+# Default tune setting used (string)
+sout-x264-tune=film
+
+[core] # core program
+
+# Audio output module (string)
+aout=any
+
+# Audio resampler (string)
+audio-resampler=any
+
+# Video output module (string)
+vout=any
+
+# Text rendering module (string)
+text-renderer=any
+
+# Mux module (string)
+mux=any
+
+# Access output module (string)
+access_output=any
+
+# Preferred packetizer list (string)
+packetizer=any
+
+# VoD server module (string)
+vod-server=any
+
+# Allow metadata network access (boolean)
+metadata-network-access=1
+
+# Mouse wheel vertical axis control (integer)
+hotkeys-y-wheel-mode=-1
+
+# Mouse wheel horizontal axis control (integer)
+hotkeys-x-wheel-mode=-1
+
+# Fullscreen (string)
+key-toggle-fullscreen=
+
+# Pause only (string)
+key-pause=
+
+# Play only (string)
+key-play=
+
+# Faster (string)
+key-faster=
+
+# Slower (string)
+key-slower=
+
+# Normal rate (string)
+key-rate-normal=
+
+# Faster (fine) (string)
+key-rate-faster-fine=
+
+# Slower (fine) (string)
+key-rate-slower-fine=
+
+# Next (string)
+key-next=
+
+# Previous (string)
+key-prev=
+
+# Stop (string)
+key-stop=
+
+# Position (string)
+key-position=
+
+# Very short backwards jump (string)
+key-jump-extrashort=
+
+# Very short forward jump (string)
+key-jump+extrashort=
+
+# Short backwards jump (string)
+key-jump-short=
+
+# Short forward jump (string)
+key-jump+short=
+
+# Medium backwards jump (string)
+key-jump-medium=
+
+# Medium forward jump (string)
+key-jump+medium=
+
+# Long backwards jump (string)
+key-jump-long=
+
+# Long forward jump (string)
+key-jump+long=
+
+# Next frame (string)
+key-frame-next=
+
+# Activate (string)
+key-nav-activate=
+
+# Go to the DVD menu (string)
+key-disc-menu=
+
+# Select previous DVD title (string)
+key-title-prev=
+
+# Select next DVD title (string)
+key-title-next=
+
+# Select prev DVD chapter (string)
+key-chapter-prev=
+
+# Select next DVD chapter (string)
+key-chapter-next=
+
+# Quit (string)
+key-quit=
+
+# Volume up (string)
+key-vol-up=
+
+# Volume down (string)
+key-vol-down=
+
+# Mute (string)
+key-vol-mute=
+
+# Subtitle delay up (string)
+key-subdelay-up=
+
+# Subtitle delay down (string)
+key-subdelay-down=
+
+# Subtitle sync / bookmark audio timestamp (string)
+key-subsync-markaudio=
+
+# Subtitle sync / bookmark subtitle timestamp (string)
+key-subsync-marksub=
+
+# Subtitle sync / synchronize audio & subtitle timestamps (string)
+key-subsync-apply=
+
+# Subtitle sync / reset audio & subtitle synchronization (string)
+key-subsync-reset=
+
+# Audio delay up (string)
+key-audiodelay-up=
+
+# Audio delay down (string)
+key-audiodelay-down=
+
+# Cycle audio track (string)
+key-audio-track=
+
+# Cycle through audio devices (string)
+key-audiodevice-cycle=
+
+# Cycle subtitle track in reverse order (string)
+key-subtitle-revtrack=
+
+# Cycle subtitle track (string)
+key-subtitle-track=
+
+# Toggle subtitles (string)
+key-subtitle-toggle=
+
+# Cycle next program Service ID (string)
+key-program-sid-next=
+
+# Cycle previous program Service ID (string)
+key-program-sid-prev=
+
+# Cycle source aspect ratio (string)
+key-aspect-ratio=
+
+# Cycle video crop (string)
+key-crop=
+
+# Toggle autoscaling (string)
+key-toggle-autoscale=
+
+# Increase scale factor (string)
+key-incr-scalefactor=
+
+# Decrease scale factor (string)
+key-decr-scalefactor=
+
+# Toggle deinterlacing (string)
+key-deinterlace=
+
+# Cycle deinterlace modes (string)
+key-deinterlace-mode=
+
+# Show controller in fullscreen (string)
+key-intf-show=
+
+# Context menu (string)
+key-intf-popup-menu=
+
+# Take video snapshot (string)
+key-snapshot=
+
+# Record (string)
+key-record=
+
+# Zoom (string)
+key-zoom=
+
+# Un-Zoom (string)
+key-unzoom=
+
+# Toggle wallpaper mode in video output (string)
+key-wallpaper=
+
+# Crop one pixel from the top of the video (string)
+key-crop-top=
+
+# Uncrop one pixel from the top of the video (string)
+key-uncrop-top=
+
+# Crop one pixel from the left of the video (string)
+key-crop-left=
+
+# Uncrop one pixel from the left of the video (string)
+key-uncrop-left=
+
+# Crop one pixel from the bottom of the video (string)
+key-crop-bottom=
+
+# Uncrop one pixel from the bottom of the video (string)
+key-uncrop-bottom=
+
+# Crop one pixel from the right of the video (string)
+key-crop-right=
+
+# Uncrop one pixel from the right of the video (string)
+key-uncrop-right=
+
+# Random (string)
+key-random=
+
+# Normal/Loop/Repeat (string)
+key-loop=
+
+# Shrink the viewpoint field of view (360°) (string)
+key-viewpoint-fov-in=
+
+# Expand the viewpoint field of view (360°) (string)
+key-viewpoint-fov-out=
+
+# 1:4 Quarter (string)
+key-zoom-quarter=
+
+# 1:2 Half (string)
+key-zoom-half=
+
+# 1:1 Original (string)
+key-zoom-original=
+
+# 2:1 Double (string)
+key-zoom-double=
+
+# Set playlist bookmark 1 (string)
+key-set-bookmark1=
+
+# Set playlist bookmark 2 (string)
+key-set-bookmark2=
+
+# Set playlist bookmark 3 (string)
+key-set-bookmark3=
+
+# Set playlist bookmark 4 (string)
+key-set-bookmark4=
+
+# Set playlist bookmark 5 (string)
+key-set-bookmark5=
+
+# Set playlist bookmark 6 (string)
+key-set-bookmark6=
+
+# Set playlist bookmark 7 (string)
+key-set-bookmark7=
+
+# Set playlist bookmark 8 (string)
+key-set-bookmark8=
+
+# Set playlist bookmark 9 (string)
+key-set-bookmark9=
+
+# Set playlist bookmark 10 (string)
+key-set-bookmark10=
+
+# Play playlist bookmark 1 (string)
+key-play-bookmark1=
+
+# Play playlist bookmark 2 (string)
+key-play-bookmark2=
+
+# Play playlist bookmark 3 (string)
+key-play-bookmark3=
+
+# Play playlist bookmark 4 (string)
+key-play-bookmark4=
+
+# Play playlist bookmark 5 (string)
+key-play-bookmark5=
+
+# Play playlist bookmark 6 (string)
+key-play-bookmark6=
+
+# Play playlist bookmark 7 (string)
+key-play-bookmark7=
+
+# Play playlist bookmark 8 (string)
+key-play-bookmark8=
+
+# Play playlist bookmark 9 (string)
+key-play-bookmark9=
+
+# Play playlist bookmark 10 (string)
+key-play-bookmark10=
+
+# Clear the playlist (string)
+key-clear-playlist=
+
+# Reset subtitles text scale (string)
+key-subtitle-text-scale-normal=
+
+# Scale down subtitles text (string)
+key-subtitle-text-scale-up=
+
+# Scale up subtitles text (string)
+key-subtitle-text-scale-down=

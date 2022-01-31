@@ -39,3 +39,11 @@
 **Description:** installs Chocolatey packages
 
 **Usage:** Run it
+
+---
+
+**File:** `vlcrc` `vlc-qt-interface.ini`
+
+**Description:** VLC configuration
+
+**Usage:** Copy it to `~\AppData\Roaming\`
