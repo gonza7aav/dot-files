@@ -1,8 +1,6 @@
 # dot-files
 
----
-
-**File:** `.gitconfig`
+**File:** [`.gitconfig`](.gitconfig)
 
 **Description:** Git configuration
 
@@ -10,7 +8,7 @@
 
 ---
 
-**File:** `.npmrc`
+**File:** [`.npmrc`](.npmrc)
 
 **Description:** NPM configuration
 
@@ -18,32 +16,14 @@
 
 ---
 
-**File:** `.bashrc`
+**File:** [`winget`](winget.md)
 
-**Description:** Git Bash prompt personalization
-
-**Usage:** Copy it to user's folder
+**Description:** Winget commands
 
 ---
 
-**File:** `.inputrc`
-
-**Description:** disables Windows Terminal bell
-
-**Usage:** Copy it to user's folder
-
----
-
-**File:** `choco-install.sh`
-
-**Description:** installs Chocolatey packages
-
-**Usage:** Run it
-
----
-
-**File:** `vlcrc` `vlc-qt-interface.ini`
+**File:** [`vlcrc`](vlcrc) [`vlc-qt-interface.ini`](vlc-qt-interface.ini)
 
 **Description:** VLC configuration
 
-**Usage:** Copy it to `~\AppData\Roaming\`
+**Usage:** Copy it to `~\AppData\Roaming\vlc`
