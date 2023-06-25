@@ -46,6 +46,8 @@ winget install --exact --interactive --id Postman.Postman
 winget install --exact --interactive --id Google.AndroidStudio
 winget install --exact --interactive --id Docker.DockerDesktop
 winget install --exact --interactive --id Oracle.VirtualBox
+winget install --exact --interactive --id ArduinoSA.IDE.stable
+winget install --exact --interactive --id CoreyButler.NVMforWindows
 ```
 
 ## Tools
@@ -57,6 +59,7 @@ winget install --exact --interactive --id Audacity.Audacity
 winget install --exact --interactive --id qBittorrent.qBittorrent
 winget install --exact --interactive --id VideoLAN.VLC
 winget install --exact --interactive --id Google.Drive
+winget install --exact --interactive --id Spotify.Spotify
 ```
 
 ## Gaming
@@ -64,7 +67,7 @@ winget install --exact --interactive --id Google.Drive
 ```powershell
 winget install --exact --interactive --id Valve.Steam
 winget install --exact --interactive --id EpicGames.EpicGamesLauncher
-winget install --exact --interactive --id UnityTechnologies.UnityHub
+winget install --exact --interactive --id Unity.UnityHub
 winget install --exact --interactive --id Discord.Discord
 winget install --exact --interactive --id LogMeIn.Hamachi
 ```
