@@ -31,40 +31,40 @@ winget settings
 ## Windows Terminal
 
 ```powershell
-winget install --exact --id Microsoft.WindowsTerminal
+winget install --exact --interactive --id Microsoft.WindowsTerminal
 ```
 
 ## Dev
 
 ```powershell
-winget install --exact --id Google.Chrome
-winget install --exact --id Git.Git
-winget install --exact --id Microsoft.VisualStudioCode
-winget install --exact --id JetBrains.IntelliJIDEA.Community
-winget install --exact --id Microsoft.VisualStudio.2022.Community
-winget install --exact --id Postman.Postman
-winget install --exact --id Google.AndroidStudio
-winget install --exact --id Docker.DockerDesktop
-winget install --exact --id Oracle.VirtualBox
+winget install --exact --interactive --id Google.Chrome
+winget install --exact --interactive --id Git.Git
+winget install --exact --interactive --id Microsoft.VisualStudioCode
+winget install --exact --interactive --id JetBrains.IntelliJIDEA.Community
+winget install --exact --interactive --id Microsoft.VisualStudio.2022.Community
+winget install --exact --interactive --id Postman.Postman
+winget install --exact --interactive --id Google.AndroidStudio
+winget install --exact --interactive --id Docker.DockerDesktop
+winget install --exact --interactive --id Oracle.VirtualBox
 ```
 
 ## Tools
 
 ```powershell
-winget install --exact --id 7zip.7zip
-winget install --exact --id GIMP.GIMP
-winget install --exact --id Audacity.Audacity
-winget install --exact --id qBittorrent.qBittorrent
-winget install --exact --id VideoLAN.VLC
-winget install --exact --id Google.Drive
+winget install --exact --interactive --id 7zip.7zip
+winget install --exact --interactive --id GIMP.GIMP
+winget install --exact --interactive --id Audacity.Audacity
+winget install --exact --interactive --id qBittorrent.qBittorrent
+winget install --exact --interactive --id VideoLAN.VLC
+winget install --exact --interactive --id Google.Drive
 ```
 
 ## Gaming
 
 ```powershell
-winget install --exact --id Valve.Steam
-winget install --exact --id EpicGames.EpicGamesLauncher
-winget install --exact --id UnityTechnologies.UnityHub
-winget install --exact --id Discord.Discord
-winget install --exact --id LogMeIn.Hamachi
+winget install --exact --interactive --id Valve.Steam
+winget install --exact --interactive --id EpicGames.EpicGamesLauncher
+winget install --exact --interactive --id UnityTechnologies.UnityHub
+winget install --exact --interactive --id Discord.Discord
+winget install --exact --interactive --id LogMeIn.Hamachi
 ```
