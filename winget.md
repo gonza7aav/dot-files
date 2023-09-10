@@ -60,6 +60,7 @@ winget install --exact --interactive --id qBittorrent.qBittorrent
 winget install --exact --interactive --id VideoLAN.VLC
 winget install --exact --interactive --id Google.Drive
 winget install --exact --interactive --id Spotify.Spotify
+winget install --exact --interactive --id Obsidian.Obsidian
 ```
 
 ## Gaming
