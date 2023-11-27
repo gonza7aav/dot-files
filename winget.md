@@ -48,6 +48,7 @@ winget install --exact --interactive --id Docker.DockerDesktop
 winget install --exact --interactive --id Oracle.VirtualBox
 winget install --exact --interactive --id ArduinoSA.IDE.stable
 winget install --exact --interactive --id CoreyButler.NVMforWindows
+winget install --exact --interactive --id gerardog.gsudo
 ```
 
 ## Tools

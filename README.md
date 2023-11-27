@@ -27,3 +27,15 @@
 **Description:** VLC configuration
 
 **Usage:** Copy it to `~\AppData\Roaming\vlc`
+
+---
+
+**File:** [`settings.json`](settings.json)
+
+**Description:** VS Code configuration
+
+**Usage:** Copy it to `~\AppData\Roaming\Code\User`
+
+---
+
+**URL:** [Remove MINGW64 from Git Bash](https://stackoverflow.com/a/32912485)
